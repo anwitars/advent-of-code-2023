@@ -20,13 +20,13 @@ I have decided to use the following programming languages for the Advent of Code
  - Zig
     - After changing the directory to the day you want to run, you can run the code by using the following command:
       ```
-      zig build run < input.txt
+      zig build run < ../../inputs/dayXX.txt
       ```
  - Python
     - Although not necessary, but I use a virtual environment in the ./python/ directory with version 3.11.9 of Python, using pyenv.
     - After changing the directory to the day you want to run, you can run the code by using the following command:
       ```
-      python main.py < input.txt
+      python main.py < ../../inputs/dayXX.txt
       # or
-      python3 main.py < input.txt
+      python3 main.py < ../../inputs/dayXX.txt
       ```

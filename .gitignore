@@ -1,6 +1,6 @@
-.zig-cache/
-zig-out/
+zig/**/.zig-cache/
+zig/**/zig-out/
 
-target/
+rust/**/target/
 
-.python-version
+python/.python-version

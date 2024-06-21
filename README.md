@@ -30,3 +30,8 @@ I have decided to use the following programming languages for the Advent of Code
       # or
       python3 main.py < ../../inputs/dayXX.txt
       ```
+ - Rust
+    - After changing the directory to the day you want to run, you can run the code by using the following command:
+      ```
+      cargo run < ../../inputs/dayXX.txt
+      ```
